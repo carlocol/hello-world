@@ -1,2 +1,7 @@
 # hello-world
-Just another depository
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript etc
+etc
+
